@@ -1,0 +1,3 @@
+Interfax Module with md5 encryption on the password field... 
+
+You should NEVER store plain text passwords in the database... :) 

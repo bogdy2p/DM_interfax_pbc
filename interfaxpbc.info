@@ -1,0 +1,4 @@
+name = Intefax Pbc
+description = InterfaxPbc Home written module at night info
+core = 7.x
+package = Experimental
